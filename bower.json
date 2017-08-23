@@ -1,0 +1,20 @@
+{
+  "name": "git_demo01",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "zeng"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
